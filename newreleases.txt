@@ -1,15 +1,5 @@
 
 <item>
-<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc></jsonrpc>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/dbicon.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-
-
-<item>
 <title>[COLORwhite][COLORred]FILM OF THE WEEK[/COLOR] - Flight of the Navigator (1986) Remastered[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/b8pknema9wmy/flight_of_the_gator_1986_hd_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -23,16 +13,6 @@ sublink:LISTSOURCE:https://1fichier.com/?vpuabvyp3jioj4b4dn6o::LISTNAME:[COLORgo
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjUwNmY4ZmYtMzM2OS00N2UxLWFkMWEtZmI0ODRlNWRmM2MwXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
-</item>
-
-
-
-<item> 
-<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc></jsonrpc>https://vidoza.net/aopz6uenjrcg/threads_1984_1080p_bluray_h264_aac-rarbg
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/dbicon.jpg</thumbnail>
-<fanart></fanart>
 </item>
 
 <item>
