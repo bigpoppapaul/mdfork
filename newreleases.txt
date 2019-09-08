@@ -16,6 +16,40 @@ sublink:LISTSOURCE:https://1fichier.com/?vpuabvyp3jioj4b4dn6o::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Avengers : The Infinity Saga (2019)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/16aaos01s9ec/d_railed_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/gpj2hjmqq6ee/avengers_the_infinity_saga_2019_1080p_x264_by_aznblusuazn::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/gpj2hjmqq6ee/avengers_the_infinity_saga_2019_1080p_x264_by_aznblusuazn::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/gpj2hjmqq6ee/avengers_the_infinity_saga_2019_1080p_x264_by_aznblusuazn::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/0psrozljap4i::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/JUjrKCYcZZg/Avengers.The.Infinity.Saga.2019.1080p.x264.by.AznBlusuazn.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/0psrozljap4i::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/136db3a8a4721294d14948c254308a63/Avengers.The.Infinity.Saga.2019.1080p.x264.by.AznBlusuazn.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ha9sjmh9shco8tk99qp4::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://pm1.narvii.com/7257/2250366a8d1ba18d2da6135c516122ef5428592er1-1049-1311v2_hq.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Parting Glass (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/5hx56ayur522/the_parting_glass_eiff_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/8jk395qyqlhd/the_parting_glass_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/8jk395qyqlhd/the_parting_glass_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/s5p2ctli14a1::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/wiqiwq3mpirg::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/EgEwEzuTje3/The_Parting_Glass.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/wiqiwq3mpirg::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/b8d2eba7453c1ded153bf78d7affe7fe/The_Parting_Glass.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?0pmbvn46w4q2dfhg31kz::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjM3M2FmYjYtYjcyMi00ZjY2LTk2MTUtMWJiYWU0ZDBiY2RkXkEyXkFqcGdeQXVyOTE1NDE4OA@@._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Strange But True (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/fsguo8fewcxu/strange_but_true_trailer_2019_margaret_qualley%2C_thrillerie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
