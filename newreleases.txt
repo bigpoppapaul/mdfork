@@ -16,7 +16,7 @@ sublink:LISTSOURCE:https://1fichier.com/?vpuabvyp3jioj4b4dn6o::LISTNAME:[COLORgo
 </item>
 
 <item>
-<title>[COLORwhite]Avengers : The Infinity Saga (2019)[/COLOR]</title>
+<title>[COLORwhite][COLORred]FILM OF THE MONTH[/COLOR] - Avengers : The Infinity Saga (2019)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/16aaos01s9ec/d_railed_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/gpj2hjmqq6ee/avengers_the_infinity_saga_2019_1080p_x264_by_aznblusuazn::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
@@ -29,6 +29,114 @@ sublink:LISTSOURCE:https://rapidgator.net/file/136db3a8a4721294d14948c254308a63/
 sublink:LISTSOURCE:https://1fichier.com/?ha9sjmh9shco8tk99qp4::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://pm1.narvii.com/7257/2250366a8d1ba18d2da6135c516122ef5428592er1-1049-1311v2_hq.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Death and Life of John F. Donovan (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/61ro233arifd/the_death_and_life_of_john_f__donovan_international_trailer_1_ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hwf5n08njdim/the_death_and_life_of_john_f_donovan_2019_hc_hdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hwf5n08njdim/the_death_and_life_of_john_f_donovan_2019_hc_hdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/heby2dpkz27e::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/3ho6t1eaupqd::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/SKLRGB5W9Ng/The.Death.And.Life.of.John.F.Donovan.2019.HC.HDRip.XviD.AC3-EVO%5BEtMovies%5D.avi.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/6dc29e0574d9932dc7c4fff70ed1835d/The.Death.And.Life.of.John.F.Donovan.2019.HC.HDRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?htcmdvud8rfx3t21khvq::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/pysd1uupfrtx/the_death_and_life_of_john_f_donovan_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/pysd1uupfrtx/the_death_and_life_of_john_f_donovan_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/j4491e4pppmq::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/qqmgiqx5ufk0::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/4ArN4HJ3A3u/The.Death.And.Life.of.John.F.Donovan.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/qqmgiqx5ufk0::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/b53bca621891421b5eea49616acf7387/The.Death.And.Life.of.John.F.Donovan.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ohokbifdlfaiva6xx8mj::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODNlZjIyYmUtZmIwMy00MDM3LThlNmYtNDViYTQ5ZWJkNjljXkEyXkFqcGdeQXVyNTE1NTQ4Mjc@._V1_SY1000_CR0,0,692,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Keeper (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/yo5lnekhg676/the_keeper_official_trailer_2019_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/9ds22buw1lj8/the_keeper_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/9ds22buw1lj8/the_keeper_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/bkr78vmg6ufb::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/o7qkqm6hlonj::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/YqgwaoGHEak/The.Keeper.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/o7qkqm6hlonj::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/65b5744ef807c09c2e05fc863af72758/The.Keeper.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?z0gwklbpcjhw3krgebh6::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGY2ODI0NDMtMmViMS00NGI2LWJlYWQtODk4NzlkNGVmMjU0XkEyXkFqcGdeQXVyNzE1ODI0OTg@._V1_SY1000_CR0,0,681,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]General Commander (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/bzqxrcd6109y/general_commander_trailer_2019__steven_seagal::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/vublzqru527v/general_commander_2019_bdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/vublzqru527v/general_commander_2019_bdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/dz4wbnb5923p::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/zig6c9qipb5o::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/bwiDL2njbda/General.Commander.2019.BDRip.XviD.AC3-EVO%5BEtMovies%5D.avi.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/39996b2084acaf0804a638656eeb802f/General.Commander.2019.BDRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ibmrhzccblzuz8nkkkso::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMmZiNmQ5YjYtYWY0ZS00M2ZmLWIzYTAtMTk3ZmFlMjdhMDM5XkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Corrupted (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/g7zfjfpwpw0d/the_corrupted_official_trailer_l_in_cinemas_now::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/jp7nj90avm4s/the_corrupted_2019_1080p_amzn_web-dl_ddp5_1_h_264-ntg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/jp7nj90avm4s/the_corrupted_2019_1080p_amzn_web-dl_ddp5_1_h_264-ntg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/jp7nj90avm4s/the_corrupted_2019_1080p_amzn_web-dl_ddp5_1_h_264-ntg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/hn1y1eacitxm::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/hV7bk1xMyR2/The.Corrupted.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/hn1y1eacitxm::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/00401cceac9b1e00dafd854e8b26d1a5/The.Corrupted.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ebenl5bsuznw2spf7ovn::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZmI1ZTA1OGMtZTI4OC00ZjM5LWE0NDQtN2IzNjYxYzc3ZGQ2XkEyXkFqcGdeQXVyMjkyNzYwMw@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Beats (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/2txljre0dems/exclusive_clip_beats__resident_advisor::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/khqomx2bts9r/beats_2019_1080p_amzn_web-dl_ddp5_1_h_264-ntg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/khqomx2bts9r/beats_2019_1080p_amzn_web-dl_ddp5_1_h_264-ntg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/khqomx2bts9r/beats_2019_1080p_amzn_web-dl_ddp5_1_h_264-ntg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/izwvxs8wi2vm::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/SyEC5QX6dhw/Beats.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/izwvxs8wi2vm::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/2d8bb0dc1724479eba5f9d8dc0064d69/Beats.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?037ulfu3eeu41h42dghi::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTE1OTVhZDYtZDBjYy00MDM4LWI2NDQtNjZjMjAyNDRjOGM1XkEyXkFqcGdeQXVyMTc5OTQwMzk@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Witnesses (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/3olw50ear2jb/witnesses_official_trailer_2019_horror%2C_crimeie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/14y7dqudxlun/witnesses_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/14y7dqudxlun/witnesses_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/qszovmyea50o::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/9k7gsijyr5dj::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/btVfGmosdkS/Witnesses.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/9k7gsijyr5dj::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/ed89c7c9f74b7e32b90697ca7a5df073/Witnesses.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?s1r4kw95q92ef2c7ac5g::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZWMxYTIxYWUtNDFlYS00YjliLTg5NjktNjM3NmMwYzM5MGFiXkEyXkFqcGdeQXVyNTk3MjkwMDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
