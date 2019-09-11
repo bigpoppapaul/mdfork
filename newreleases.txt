@@ -16,7 +16,7 @@ sublink:LISTSOURCE:https://1fichier.com/?vpuabvyp3jioj4b4dn6o::LISTNAME:[COLORgo
 </item>
 
 <item>
-<title>[COLORwhite][COLORred]FILM OF THE MONTH[/COLOR] - Avengers : The Infinity Saga (2019)[/COLOR]</title>
+<title>[COLORwhite][COLORred]PAUL'S PICK[/COLOR] - Avengers : The Infinity Saga (2019)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/16aaos01s9ec/d_railed_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/gpj2hjmqq6ee/avengers_the_infinity_saga_2019_1080p_x264_by_aznblusuazn::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
