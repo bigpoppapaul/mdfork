@@ -1,6 +1,124 @@
 
 <item>
-<title>[COLORwhite][COLORred]FILM OF THE WEEK[/COLOR] - Galaxy Quest (1999)[/COLOR]</title>
+<title>[COLORwhite][COLORred]FILM OF THE WEEK[/COLOR] - Dirty Harry (1971)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/w3lvuc1vqg8z/dirty_harry_trailer_1971_hq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/usko27d4fl9s/dirty_harry_1971_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/usko27d4fl9s/dirty_harry_1971_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/670emu0xgzgwxw-::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/fUkDuE33Hkc/Dirty.Harry.1971.1080p.BluRay.H264.AAC-RARBG.mp4::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/b08r2bwyitun::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/314fc59272b401c3c7f48d5870d9a279/Dirty.Harry.1971.1080p.BluRay.H264.AAC-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ug2jwbcyl6ow7xcvewjy::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzdhMTM2YTItOWU2YS00MTM0LTgyNDYtMDM1OWM3NzkzNTM2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_CR0,0,662,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite][COLORred]PAUL'S PICK[/COLOR] - Midsommar (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/oexzqzuitg26/midsommar__official_trailer_hd__a24::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/2sppo3vqpm5b/midsommar_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/2sppo3vqpm5b/midsommar_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/rgyedaew1581k6x::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ab17wv4os6cv::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/b1444mDnvxK/Midsommar.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ab17wv4os6cv::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?nkmn9bmhe6sujvw8r2j8::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?nkmn9bmhe6sujvw8r2j8::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Roads (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/lo4k2zlnrn40/roads_trailer_german_deutsch_2019_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/1gdjc8wzkee6/roads_2019_1080p_web-dl_dd5_1_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/1gdjc8wzkee6/roads_2019_1080p_web-dl_dd5_1_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/zg7w-aj-2r233n0::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/4bqchf08h02e::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/SzwgzvLhVK5/Roads.2019.1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/4bqchf08h02e::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/162d5189df5f11a65257359089516fde/Roads.2019.1080p.WEB-DL.DD5.1.H264-CMRG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?1l4n5vwr2hi2yrcwooqy::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2RiN2IyY2QtYjU4ZC00MjM0LTkwMjUtZjVlOTBlNjgzYmJlXkEyXkFqcGdeQXVyNjE2ODIzMTA@._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Before the Dawn (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/sbg9ykl0kjqu/before_the_dawn_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ugr83e8f5h6k/before_the_dawn_2019_1080p_amzn_web-dl_dd_2b2_0_h_264-ika_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ugr83e8f5h6k/before_the_dawn_2019_1080p_amzn_web-dl_dd_2b2_0_h_264-ika_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/-qz17ipm225n7kn::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/5mz2gsjf4w5m::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/hWaJjNxUekT/Before.the.Dawn.2019.1080p.AMZN.WEB-DL.DD%2B2.0.H.264-iKA%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/5mz2gsjf4w5m::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/e4661c822f4c329da655e566e5447cdd/Before.the.Dawn.2019.1080p.AMZN.WEB-DL.DD_2.0.H.264-iKA[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?z8c2g1plca69v6068ene::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzVhOGFiNTItMjY0NS00NWUzLWEyNzUtYWVhMGQ3MjNiMmI2XkEyXkFqcGdeQXVyNTc4OTQ3OTg@._V1_SY1000_CR0,0,682,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]E.M.P. 333 Days (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ursn8nwtmhmu/e_m_p__333_days_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/h0xjff5zdwnj/e_m_p_333_days_2018_1080p_amzn_web-dl_dd_2b2_0_h_264-ika_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/h0xjff5zdwnj/e_m_p_333_days_2018_1080p_amzn_web-dl_dd_2b2_0_h_264-ika_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/80p2wh8zwwn-34x::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/9mbvhyxvn5gl::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/YyBnRhUHbyF/E.M.P.333.Days.2018.1080p.AMZN.WEB-DL.DD%2B2.0.H.264-iKA%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/9mbvhyxvn5gl::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/d05506e93bc71e2e4b97b586dbe25f5b/E.M.P.333.Days.2018.1080p.AMZN.WEB-DL.DD_2.0.H.264-iKA[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?9sfjqy3yy5087pr7z9ys::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzE0NWJhODItNjdkYS00MmRhLWFhYjgtNmFmZGYxOWFmMjgyXkEyXkFqcGdeQXVyNTcwNDAwMzQ@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Trauma Therapy (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/9e5ameazi8bo/trauma_therapy_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/eegot5brigqx/trauma_therapy_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/eegot5brigqx/trauma_therapy_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/m-yw2u5n44ynxd7::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/5g850zx0c6iu::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/8jnNcSNcL3r/Trauma.Therapy.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/5g850zx0c6iu::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/6679999fc8c794a3bc1db70be19651f5/Trauma.Therapy.2019.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?3n75y84w4boq20hvn7r3::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzNmYzk2NTctMjg5NC00MGZkLThhOTQtZWUwYmJiOTBhODlkXkEyXkFqcGdeQXVyMDgwMzQxNQ@@._V1_SY1000_CR0,0,708,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Barren Trees (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ccondder4lt2/barren_trees_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/egi4xxdz5ie0/barren_trees_2018_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/egi4xxdz5ie0/barren_trees_2018_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/-qz17ipm2m840ml::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/52404hxyn2y0::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/4Kwjp3rHidC/Barren.Trees.2018.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/52404hxyn2y0::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/4f7ec562ce2066b9929d692dadb995ea/Barren.Trees.2018.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?tvar5rmac3w8ya0tihln::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGQzOWY1MWYtNTNhNC00NjI3LTk5ODktOGFkMGExMTViZDM5XkEyXkFqcGdeQXVyNDYyNTc5MDk@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Galaxy Quest (1999)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/6ese43y2ym3x/galaxy_quest_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/uwpgfpvhi75k/galaxy_quest_1999_1080p_brrip_x264_yify::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
@@ -16,20 +134,106 @@ sublink:LISTSOURCE:https://1fichier.com/?cm8448p1mt4ewl1wsk83::LISTNAME:[COLORgo
 </item>
 
 <item>
-<title>[COLORwhite][COLORred]PAUL'S PICK[/COLOR] - The Best of Enemies (2019)[/COLOR]</title>
+<title>[COLORwhite]Warnings (2019)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://vidoza.net/l95zph3m122v/the_best_of_enemies_trailer_1_2018__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/w5b82ju0l9hq/the_best_of_enemies_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/lkqkcbfbfbkbqoff/The_Best_of_Enemies_2019_1080p_WEB-DL_H264_AC3-EVO_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/mpqqdpcpbscdbndf/The_Best_of_Enemies_2019_1080p_WEB-DL_H264_AC3-EVO_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/t97sui7np4oi::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/JrpaWfJnixu/The.Best.of.Enemies.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/4vuhPKixa0k/The.Best.of.Enemies.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/24f5513733fbd78b646d950a7869b087/The.Best.of.Enemies.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?oqoszq6c4ws63rk79eoe::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+ublink:LISTSOURCE:https://vidoza.net/xfl70m1myqaz/loon_lake_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/6iiatqv67c5b/warnings_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/6iiatqv67c5b/warnings_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/pgy0ram54xlzjq3::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/lcq5a91el8k3::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/fhL8LMkCyFN/Warnings.2019.1080p.WEBRip.x264-RARBG.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/lcq5a91el8k3::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/780158293fe047bc4275fab220ab1b10/Warnings.2019.1080p.WEBRip.x264-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?apkrpgeitzlqqi66qx4j::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMjQ5MjA2NDkyM15BMl5BanBnXkFtZTgwNTIwNjUzNzM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTkyYWU3N2YtODZjOC00NGI1LTgxZTUtNzgzZDUxNTE0NGU2XkEyXkFqcGdeQXVyOTgyOTcwOTc@._V1_SY1000_CR0,0,711,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Loon Lake (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/xfl70m1myqaz/loon_lake_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/omnsrqxy8uql/loon_lake_2019_1080p_amzn_web-dl_dd_2b2_0_h_264-ika_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/omnsrqxy8uql/loon_lake_2019_1080p_amzn_web-dl_dd_2b2_0_h_264-ika_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/zg7w-aj-2eqnk-z::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/jeiowgyffcdw::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/fKPZRG2rz4R/Loon.Lake.2019.1080p.AMZN.WEB-DL.DD%2B2.0.H.264-iKA%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/jeiowgyffcdw::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/3cfd08eeb879df6e1de12644d9760dc9/Loon.Lake.2019.1080p.AMZN.WEB-DL.DD_2.0.H.264-iKA[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?k91xfr2mwet2aftwnud5::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTBiOTc4ZWUtNzA0My00ZWU0LThlZWUtNGI3NDg3MDcwZmE5XkEyXkFqcGdeQXVyMjAxMjU2NDI@._V1_SY1000_CR0,0,687,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Missing (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/oin3ef1xtw9c/the_missing__2019__official_trailer__amazon_prime_horrorie__directed_by_ranjeet_s__marwa::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/qhh2b60bqix8/the_missing_2019_1080p_amzn_web-dl_dd_2b2_0_h_264-ika_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/qhh2b60bqix8/the_missing_2019_1080p_amzn_web-dl_dd_2b2_0_h_264-ika_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/yw2-mae67-x0y4k::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/be9mtmel7vr5::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/eGPTPjeWyyQ/The.Missing.2019.1080p.AMZN.WEB-DL.DD%2B2.0.H.264-iKA%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/be9mtmel7vr5::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/cbb07154ac198bfefd4ed0b9332fb2b0/The.Missing.2019.1080p.AMZN.WEB-DL.DD_2.0.H.264-iKA[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?rbn4q8xtbsyaj95mtsqx::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTUxZTliYWYtMTBmNy00NmFmLWE2YzMtZmExYTk5MzhiYmUzXkEyXkFqcGdeQXVyMjA3NDg1MDI@._V1_SY1000_SX705_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Death of Dick Long (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/22w5xnb56tjs/the_death_of_dick_long__official_trailer_hd__a24::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/tp4ptsuh66lg/the_death_of_dick_long_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/tp4ptsuh66lg/the_death_of_dick_long_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/2x451s2yq7185zd::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ymyftqpvp3ky::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/6MVxzhD4maX/The.Death.Of.Dick.Long.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ymyftqpvp3ky::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/f897b795a6e108537978a8164d8a6839/The.Death.Of.Dick.Long.2019.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?n4kfglkcnjye3vtokmec::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQ3ZjZhZjAtNWRkNy00NWQ3LWJlMDgtMTExYmY5NTc0MWY2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]The Art of Self-Defense (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/okfrsgzqucak/the_art_of_self_defense__official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ohdec2s55h89/the_art_of_self-defense_2019_1080p_bluray_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ohdec2s55h89/the_art_of_self-defense_2019_1080p_bluray_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/yw2-mae67-eg-q-::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/i54n4gw65mpk::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/erjfaNPzaZ3/The.Art.Of.Self-Defense.2019.1080p.BluRay.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/i54n4gw65mpk::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/bb2f1d493fea00bf0b9f9739647946f2/The.Art.Of.Self-Defense.2019.1080p.BluRay.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?p2rk6n3jdeu224100fbz::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDlkOGE4YTUtYWRlZS00YjFkLWE3NmUtNzNlNjdiZTk2NzdhXkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Harpoon (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/evt1usws01cg/harpoon_2019_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hyl44xti20f7/harpoon_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hyl44xti20f7/harpoon_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/2x451s2yq7q786g::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/yy1qubla7j3o::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/7bSC42rHQz6/Harpoon.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/yy1qubla7j3o::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/37006c6ff5a2450ae7dcdb7dc5c7d5d3/Harpoon.2019.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?yxht5c8nu6jyebki81zx::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGE5ZDI2NmUtZTU5Yi00NDVhLTk4OTItYzUyYWE5MzQ4OWYwXkEyXkFqcGdeQXVyOTMzOTMzMTg@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
 <item>
