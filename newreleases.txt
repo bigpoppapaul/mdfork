@@ -17,7 +17,7 @@ sublink:LISTSOURCE:https://cdn.turbobit.net/u29a89j7l3dd.html::LISTNAME:[COLORgo
 </item>
 
 <item>
-<title>[COLORwhite][COLORred]Paul's Pick[/COLOR]It Chapter Two (2019)[/COLOR]</title>
+<title>[COLORwhite][COLORred]Paul's Pick[/COLOR] - It Chapter Two (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ywvfmka2tif4/it_chapter_two_final_trailer_%5Bhd%5D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/38zquuwrbqde/it_chapter_two_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
