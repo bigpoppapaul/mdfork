@@ -16,7 +16,7 @@ sublink:LISTSOURCE:https://turbobit.net/4d1fxflgkkdh.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
-<title>[COLORwhite][COLORred]Paul's Pick[/COLOR]Ford v Ferrari (2019)[/COLOR]</title>
+<title>[COLORwhite][COLORred]Paul's Pick[/COLOR] - Ford v Ferrari (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/f760sbq13k1d/ford_v_ferrari__official_trailer_%5Bhd%5D__20th_century_fox::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/rk3e6rj9zs8w/wwwcr_to__-ford_v_ferrari_2019_1080p_dvdscr_x264_aac_5_1_2_4gb_5cr_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
