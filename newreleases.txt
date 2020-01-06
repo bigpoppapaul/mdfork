@@ -16,7 +16,7 @@ sublink:LISTSOURCE:https://turbobit.net/m1xf8r5hfdkb.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
-<title>[B][I][COLORred]This Years Screeners[/B][/I][/COLOR]</title>
+<title>[B][I][COLORred]This Year's Screeners[/B][/I][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/screeners.txt</externallink>
