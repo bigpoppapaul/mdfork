@@ -1,5 +1,5 @@
 <item>
-<title>[COLORwhite][COLORred]FILM OF THE WEEK[/COLOR] - Ghostbusters (1984)[/COLOR]</title>
+<title>[COLORwhite][COLORred]Film of the Week[/COLOR] - Ghostbusters (1984)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ed14t3x3jiza/ghostbusters_1984_trailer_1_ieclips_classic_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/kq8ja88ce888/ghostbusters_1984_1080p_x265_10bit_fs35_joy_::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -16,7 +16,7 @@ sublink:LISTSOURCE:https://turbobit.net/m1xf8r5hfdkb.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
-<title>[B][I][COLORred]THIS YEARS SCREENERS[/B][/I][/COLOR]</title>
+<title>[B][I][COLORred]This Years Screeners[/B][/I][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/screeners.txt</externallink>
