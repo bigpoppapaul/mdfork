@@ -1,5 +1,5 @@
 <item>
-<title>[B][I][COLORred]Oscar Screeners[/B][/I][/COLOR]</title>
+<title>[B][I][COLORdarkgoldenrod]Oscar Screeners[/B][/I][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/screeners.txt</externallink>
