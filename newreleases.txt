@@ -1,4 +1,13 @@
 <item>
+<title>[B][I][COLORred]Oscar Screeners[/B][/I][/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/screeners.txt</externallink>
+<thumbnail>https://whereyouwatch.com/wp-content/uploads/2019/09/Oscar-DVD-screeners-2020.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite][COLORred]Film of the Week[/COLOR] - Ghostbusters (1984)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ed14t3x3jiza/ghostbusters_1984_trailer_1_ieclips_classic_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -12,15 +21,6 @@ sublink:LISTSOURCE:https://1fichier.com/?b3rt73wq132qx3mntz21::LISTNAME:[COLORgo
 sublink:LISTSOURCE:https://turbobit.net/m1xf8r5hfdkb.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTkxMjYyNzgwMl5BMl5BanBnXkFtZTgwMTE3MjYyMTE@._V1_SY1000_CR0,0,650,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[B][I][COLORred]Oscar Screeners[/B][/I][/COLOR]</title>
-<premium>True</premium>
-<link>ignorme</link>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/screeners.txt</externallink>
-<thumbnail>https://whereyouwatch.com/wp-content/uploads/2019/09/Oscar-DVD-screeners-2020.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
