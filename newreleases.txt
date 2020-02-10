@@ -8,6 +8,15 @@
 </item>
 
 <item>
+<title>[B][I][COLORdarkgoldenrod]Oscar Winners[/B][/I][/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>https://raw.githubusercontent.com/bigpoppapaul/mdfork/master/oscarwinners.txt</externallink>
+<thumbnail>https://oscarwinners.net/wp-content/uploads/2020/02/2020-oscar-winners-300x169.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite][COLORred]Classic of the Week[/COLOR] - Drive (2011)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/t4go6g6i66mh/drive_-ie_trailer_2011_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
