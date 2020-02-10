@@ -204,7 +204,7 @@ sublink:LISTSOURCE:https://1fichier.com/?3vx8y5xxzfnecrix6e2j::LISTNAME:[COLORgo
 </item>
 
 <item>
-<title>[COLORwhite][COLORdarkgoldenrod]Original Score - Hildur Guanadottir[/COLOR] - Joker (2019)[/COLOR]</title>
+<title>[COLORwhite][COLORdarkgoldenrod]Original Score: Hildur Guanadottir[/COLOR] - Joker (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://cloudvideo.tv/pxs0s9p773bj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/8plbyvo3l7cm/joker_2019_1080p_web-dl_dd5_1_h264-fgt::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
