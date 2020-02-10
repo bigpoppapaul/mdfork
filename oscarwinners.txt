@@ -1,5 +1,5 @@
 <item>
-<title>[COLORwhite][COLORdarkgoldenrod]Best Picture[/COLOR] - Parasite (2019)[/COLOR]</title>
+<title>[COLORwhite][COLORdarkgoldenrod]Picture[/COLOR] - Parasite (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/6r9a91e5b2yk/parasite_official_trailer_2019_bong_joon_ho_film::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/7lmsk45fn31k/www_tamilrockers_ws_parasite_2019_korean_720p_bdrip_x264_esubs_900mb::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -16,7 +16,7 @@ sublink:LISTSOURCE:https://turbobit.net/4pz8hg2umes3.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
-<title>[COLORwhite][COLORdarkgoldenrod]Best Director: Bong Joon-ho[/COLOR] - Parasite (2019)[/COLOR]</title>
+<title>[COLORwhite][COLORdarkgoldenrod]Director: Bong Joon-ho[/COLOR] - Parasite (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/6r9a91e5b2yk/parasite_official_trailer_2019_bong_joon_ho_film::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/7lmsk45fn31k/www_tamilrockers_ws_parasite_2019_korean_720p_bdrip_x264_esubs_900mb::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -33,7 +33,7 @@ sublink:LISTSOURCE:https://turbobit.net/4pz8hg2umes3.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
-<title>[COLORwhite][COLORdarkgoldenrod]Best Actor: Joaquin Phoenix[/COLOR] - Joker (2019)[/COLOR]</title>
+<title>[COLORwhite][COLORdarkgoldenrod]Actor: Joaquin Phoenix[/COLOR] - Joker (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://cloudvideo.tv/pxs0s9p773bj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/8plbyvo3l7cm/joker_2019_1080p_web-dl_dd5_1_h264-fgt::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -52,7 +52,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:2B415A885A3E2210A6EF1D6C57EBA325F20D8BC6&
 </item>
 
 <item>
-<title>[COLORwhite][COLORdarkgoldenrod]Best Actress: Renee Zellweger[/COLOR] - Judy (2019)[/COLOR]</title>
+<title>[COLORwhite][COLORdarkgoldenrod]Actress: Renee Zellweger[/COLOR] - Judy (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/7544s7bwmt2t/judy_trailer_2_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/w9yn49j6arxj/judy_2019_720p_web-dl_h264_ac3-evo::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -71,7 +71,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:28F27BA7AF1A59E40B07ADE7BACDCAC1B20F8F88&
 </item>
 
 <item>
-<title>[COLORwhite][COLORdarkgoldenrod]Best Supporting Actor: Brad Pitt[/COLOR] - Once Upon a Time ... in Hollywood (2019)[/COLOR]</title>
+<title>[COLORwhite][COLORdarkgoldenrod]Supporting Actor: Brad Pitt[/COLOR] - Once Upon a Time ... in Hollywood (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ghwe203gib50/once_upon_a_time_in_hollywood_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/ikqj0inxceos/once_upon_a_time_in_hollywood_2019_hdrip_xvid-evo::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
@@ -98,7 +98,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:72E28DF1522C1E5C0E705B5BC1D46E250E00686B&
 </item>
 
 <item>
-<title>[COLORwhite][COLORdarkgoldenrod]Best Supporting Actress: Laura Dern[/COLOR] - Marriage Story (2019)[/COLOR]</title>
+<title>[COLORwhite][COLORdarkgoldenrod]Supporting Actress: Laura Dern[/COLOR] - Marriage Story (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/k525w0wgvsh7/marriage_story_official_trailer_2019_scarlett_johansson%2C_adam_driver_netflixie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/iqsnokjsq4ou/marriage_story_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -117,7 +117,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:162D8FDF4651FA033B784BC14AC71A49C8D9281C&
 </item>
 
 <item>
-<title>[COLORwhite][COLORdarkgoldenrod]Best Adapted Screenplay: Taika Waititi[/COLOR] - Jojo Rabbit (2019)[/COLOR]</title>
+<title>[COLORwhite][COLORdarkgoldenrod]Adapted Screenplay: Taika Waititi[/COLOR] - Jojo Rabbit (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/zyjgeddb619x/jojo_rabbit_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/daggu5kwhmxh/jojo_rabbit_2019_1080p_webrip_x264_aac5_1-_5byts_mx_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -136,7 +136,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:48C5306E2831BE94D781BDD8EF1E22EEE9222357&
 </item>
 
 <item>
-<title>[COLORwhite][COLORdarkgoldenrod]Best Original Screenplay: Bong Joon-ho[/COLOR] - Parasite (2019)[/COLOR]</title>
+<title>[COLORwhite][COLORdarkgoldenrod]Original Screenplay: Bong Joon-ho[/COLOR] - Parasite (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/6r9a91e5b2yk/parasite_official_trailer_2019_bong_joon_ho_film::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/7lmsk45fn31k/www_tamilrockers_ws_parasite_2019_korean_720p_bdrip_x264_esubs_900mb::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -149,5 +149,41 @@ sublink:LISTSOURCE:https://1fichier.com/?kwgm2iu1x6vr64edidu7::LISTNAME:[COLORgo
 sublink:LISTSOURCE:https://turbobit.net/4pz8hg2umes3.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite][COLORdarkgoldenrod]Original Song: Elton John[/COLOR] - Rocketman (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/cr6xeaxeogi6/rocketman_2019_official_trailer_paramount_pictures::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/4yljr06fpb4t/rocketman_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/4yljr06fpb4t/rocketman_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/4yljr06fpb4t/rocketman_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/vnppjqu0hg6h::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/j843S7BKLHm/Rocketman.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/vnppjqu0hg6h::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/6b0b82fa8150c3060a2a56de7b507a82/Rocketman.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?3vx8y5xxzfnecrix6e2j::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTY0MzUwODc4N15BMl5BanBnXkFtZTgwMjMyMjY0NzM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite][COLORdarkgoldenrod]Original Score - Hildur Guanadottir[/COLOR] - Joker (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://cloudvideo.tv/pxs0s9p773bj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/8plbyvo3l7cm/joker_2019_1080p_web-dl_dd5_1_h264-fgt::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/6m8og5m6thb3::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/cr41yq4hp16k::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/7kd5q38rvm2y::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/0wvd3fvfx::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/b9e85c2e762dd84b3a0a5226d865981c/Joker.2019.1080p.WEB-DL.DD5.1.H264-FGT.mkv.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?alj93xealiqibs3imzmz::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/hsm9ub599204.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:BA0E1EB7806598733F2B3472E52F4091B5E361FB&dn=Joker.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2750%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:2B415A885A3E2210A6EF1D6C57EBA325F20D8BC6&dn=Joker+%282019%29+%5BWEBRip%5D+%5B1080p%5D+%5BYTS%5D+%5BYIFY%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
