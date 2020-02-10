@@ -12,7 +12,7 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/bigpoppapaul/mdfork/master/oscarwinners.txt</externallink>
-<thumbnail>https://oscarwinners.net/wp-content/uploads/2020/02/2020-oscar-winners-300x169.jpg</thumbnail>
+<thumbnail>http://blackboxupdates.com/Wizard/backgrounds/Oscars2020.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
