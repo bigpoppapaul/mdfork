@@ -1,5 +1,5 @@
 <item>
-<title>[COLORdarkgoldenrod]92nd Academy Awards Ceremony (2020)[/COLOR]</title>
+<title>[COLORdarkgoldenrod]92nd Academy Awards Ceremony (2020)[/COLOR][COLORwhite] - Click here to watch[/COLOR][</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/5nnmt5jokybi/the_92nd_annual_academy_awards_2020_hdtv_x264-linkle_5bettv_5d::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
 sublink:LISTSOURCE:https://cloudvideo.tv/0salbtd08c1j::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
@@ -18,7 +18,13 @@ sublink:LISTSOURCE:https://1fichier.com/?ebv8qwt8ydsa26sbw110::LISTNAME:[COLORwh
 <fanart></fanart>
 </item>
 
-[COLORdarkgoldenrod]Award Winners[/COLOR]
+<item>
+<title>[B][COLORdarkgoldenrod]Award Winners[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>[B][COLORdarkgoldenrod]****************************************[/B][/COLOR]</title>
