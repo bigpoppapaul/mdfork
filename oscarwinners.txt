@@ -16,7 +16,7 @@ sublink:LISTSOURCE:https://turbobit.net/4pz8hg2umes3.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
-<title>[COLORwhite][COLORdarkgoldenrod]Director: [COLORred]Bong Joon-ho[/COLOR][/COLOR] - Parasite (2019)[/COLOR]</title>
+<title>[COLORwhite][COLORdarkgoldenrod]Director: Bong Joon-ho[/COLOR] - Parasite (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/6r9a91e5b2yk/parasite_official_trailer_2019_bong_joon_ho_film::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/7lmsk45fn31k/www_tamilrockers_ws_parasite_2019_korean_720p_bdrip_x264_esubs_900mb::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -257,7 +257,7 @@ sublink:LISTSOURCE:https://turbobit.net/0dc659qp29l3.html::LISTNAME:[COLORwhite]
 </item>
 
 <item>
-<title>[COLORwhite][COLORdarkgoldenrod]Best Film Editing[/COLOR] - Ford v Ferrari (2019)[/COLOR]</title>
+<title>[COLORwhite][COLORdarkgoldenrod]Film Editing[/COLOR] - Ford v Ferrari (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/f760sbq13k1d/ford_v_ferrari__official_trailer_%5Bhd%5D__20th_century_fox::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/ah6f9patlk49/ford_v_ferrari_2019_1080p_webrip_x264_aac5_1-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
