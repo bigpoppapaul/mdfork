@@ -71,7 +71,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:28F27BA7AF1A59E40B07ADE7BACDCAC1B20F8F88&
 </item>
 
 <item>
-<title>[COLORwhite][COLORdarkgoldenrod]Supporting Actor: Brad Pitt[/COLOR] - Once Upon a Time ... in Hollywood (2019)[/COLOR]</title>
+<title>[COLORwhite][COLORdarkgoldenrod]Supporting Actor: Brad Pitt[/COLOR] - Once Upon a Time... in Hollywood (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ghwe203gib50/once_upon_a_time_in_hollywood_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/ikqj0inxceos/once_upon_a_time_in_hollywood_2019_hdrip_xvid-evo::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
@@ -350,7 +350,7 @@ sublink:LISTSOURCE:https://turbobit.net/p82gjstlqd53.html::LISTNAME:[COLORwhite]
 </item>
 
 <item>
-<title>[COLORwhite][COLORdarkgoldenrod]Production Design[/COLOR] - Once Upon a Time ... in Hollywood (2019)[/COLOR]</title>
+<title>[COLORwhite][COLORdarkgoldenrod]Production Design[/COLOR] - Once Upon a Time... in Hollywood (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ghwe203gib50/once_upon_a_time_in_hollywood_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/ikqj0inxceos/once_upon_a_time_in_hollywood_2019_hdrip_xvid-evo::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
