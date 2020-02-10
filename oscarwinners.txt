@@ -16,7 +16,7 @@ sublink:LISTSOURCE:https://turbobit.net/4pz8hg2umes3.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
-<title>[COLORwhite][COLORdarkgoldenrod]Director: Bong Joon-ho[/COLOR] - Parasite (2019)[/COLOR]</title>
+<title>[COLORwhite][COLORdarkgoldenrod]Director: [COLORgrey]Bong Joon-ho[/COLOR][/COLOR] - Parasite (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/6r9a91e5b2yk/parasite_official_trailer_2019_bong_joon_ho_film::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/7lmsk45fn31k/www_tamilrockers_ws_parasite_2019_korean_720p_bdrip_x264_esubs_900mb::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
