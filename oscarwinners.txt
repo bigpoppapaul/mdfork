@@ -259,7 +259,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:2B415A885A3E2210A6EF1D6C57EBA325F20D8BC6&
 </item>
 
 <item>
-<title>[COLORwhite]Bombshell (2019)[/COLOR]</title>
+<title>[COLORwhite][COLORdarkgoldenrod]Makeup and Hairstyling[/COLOR] - Bombshell (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/penft0eljjdx/bombshell_2019ie_new_trailer_%E2%80%94_charlize_theron%2C_nicole_kidman%2C_margot_robbie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/9oxdbm1wtpas/bombshell_2019_1080p_web-dl_dd5_1_x264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
