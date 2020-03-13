@@ -26,6 +26,15 @@ sublink:LISTSOURCE:https://turbobit.net/2rv05j0a2gqg.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
+<title>[B][I][COLORdarkgoldenrod]Oscar Winners[/B][/I][/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink></externallink>
+<thumbnail>ftp://bigpoppapaul@blackboxupdates.com/public_html/Wizard/backgrounds/circle%20new%20releases.png</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Abstruse (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/fwm1z8mnk4oc/abstruse_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
