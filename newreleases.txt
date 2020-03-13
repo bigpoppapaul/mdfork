@@ -26,11 +26,11 @@ sublink:LISTSOURCE:https://turbobit.net/2rv05j0a2gqg.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
-<title>[B][I][COLORdarkgoldenrod]Oscar Winners[/B][/I][/COLOR]</title>
+<title></title>
 <premium>True</premium>
 <link>ignorme</link>
 <externallink></externallink>
-<thumbnail>ftp://bigpoppapaul@blackboxupdates.com/public_html/Wizard/backgrounds/circle%20new%20releases.png</thumbnail>
+<thumbnail>http://blackboxupdates.com/Wizard/backgrounds/circlenewreleases.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
