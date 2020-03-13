@@ -17,7 +17,7 @@ sublink:LISTSOURCE:https://turbobit.net/2rv05j0a2gqg.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
-<title>Brand New Releases</title>
+<title>[COLORblue]Scroll Right >>>[/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
 <externallink></externallink>
