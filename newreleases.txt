@@ -26,11 +26,11 @@ sublink:LISTSOURCE:https://turbobit.net/2rv05j0a2gqg.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
-<title></title>
+<title>Brand New Releases</title>
 <premium>True</premium>
 <link>ignorme</link>
 <externallink></externallink>
-<thumbnail>http://blackboxupdates.com/Wizard/backgrounds/circlenewreleases.jpg</thumbnail>
+<thumbnail>http://blackboxupdates.com/Wizard/backgrounds/circlenewreleases.png</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
