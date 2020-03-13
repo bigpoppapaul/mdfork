@@ -1,14 +1,5 @@
 
 <item>
-<title>[B][I][COLORdarkgoldenrod]Oscar Winners[/B][/I][/COLOR]</title>
-<premium>True</premium>
-<link>ignorme</link>
-<externallink>https://raw.githubusercontent.com/bigpoppapaul/mdfork/master/oscarwinners.txt</externallink>
-<thumbnail>http://blackboxupdates.com/Wizard/backgrounds/Oscars2020.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
 <title>[COLORwhite][COLORred]Classic of the Week[/COLOR] - Pulp Fiction (1994)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ttokab1ig279/pulp_fiction_official_trailer_1_1994_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
