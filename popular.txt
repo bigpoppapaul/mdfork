@@ -1,19 +1,19 @@
 
 <item>
-<title>Popular New Releases</title>
-<premium>True</premium>
-<link>ignorme</link>
-<externallink></externallink>
-<thumbnail>http://blackboxupdates.com/Wizard/backgrounds/popularnewreleases.png</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
 <title>[B][I][COLORdarkgoldenrod]Oscar Winners[/B][/I][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/bigpoppapaul/mdfork/master/oscarwinners.txt</externallink>
 <thumbnail>http://blackboxupdates.com/Wizard/backgrounds/Oscars2020.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORorangered]Scroll Right >>>[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink></externallink>
+<thumbnail>http://blackboxupdates.com/Wizard/backgrounds/popularnewreleases.png</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
