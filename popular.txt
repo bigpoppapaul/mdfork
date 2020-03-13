@@ -9,7 +9,7 @@
 </item>
 
 <item>
-<title>[COLORorangered]Scroll Right >>>[/COLOR]</title>
+<title>[COLORblue]Scroll Right >>>[/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
 <externallink></externallink>
