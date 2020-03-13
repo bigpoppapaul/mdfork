@@ -1,5 +1,23 @@
 
 <item>
+<title>Popular New Releases</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink></externallink>
+<thumbnail>http://blackboxupdates.com/Wizard/backgrounds/popularnewreleases.png</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[B][I][COLORdarkgoldenrod]Oscar Winners[/B][/I][/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>https://raw.githubusercontent.com/bigpoppapaul/mdfork/master/oscarwinners.txt</externallink>
+<thumbnail>http://blackboxupdates.com/Wizard/backgrounds/Oscars2020.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]1917 (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/cicv1z6hx1sj/1917_official_trailer_%5Bhd%5D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
