@@ -3,7 +3,7 @@
 <title>[B][I][COLORdarkgoldenrod]Kids & Family[/I][/B][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>https://https://raw.githubusercontent.com/bigpoppapaul/mdfork/master/kids.txt</externallink>
+<externallink>https://raw.githubusercontent.com/bigpoppapaul/mdfork/master/kids.txt</externallink>
 <thumbnail>http://blackboxupdates.com/Wizard/backgrounds/kids.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
