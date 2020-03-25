@@ -10,7 +10,7 @@
 <title>[B][COLORdarkgoldenrod]****************************************[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<thumbnail>http://blackboxupdates.com/Wizard/backgrounds/kids.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
