@@ -14,7 +14,7 @@ sublink:LISTSOURCE:https://1fichier.com/?ebv8qwt8ydsa26sbw110::LISTNAME:[COLORwh
 <title>[B][COLORdarkgoldenrod]****************************************[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<thumbnail>http://blackboxupdates.com/Wizard/backgrounds/Oscars2020.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -22,7 +22,7 @@ sublink:LISTSOURCE:https://1fichier.com/?ebv8qwt8ydsa26sbw110::LISTNAME:[COLORwh
 <title>[B][COLORdarkgoldenrod]Award Winners[/COLOR][/B]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<thumbnail>http://blackboxupdates.com/Wizard/backgrounds/Oscars2020.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -30,7 +30,7 @@ sublink:LISTSOURCE:https://1fichier.com/?ebv8qwt8ydsa26sbw110::LISTNAME:[COLORwh
 <title>[B][COLORdarkgoldenrod]****************************************[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<thumbnail>http://blackboxupdates.com/Wizard/backgrounds/Oscars2020.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
