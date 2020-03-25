@@ -1,6 +1,6 @@
 
 <item>
-<title>[B][I][COLORdarkgoldenrod]Kids & Family[/I][/B][/COLOR]</title>
+<title>[B][I][COLORdarkgoldenrod]Kids & Family New Releases[/I][/B][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/bigpoppapaul/mdfork/master/kids.txt</externallink>
