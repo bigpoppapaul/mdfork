@@ -1,4 +1,12 @@
 <item>
+<title>[B][COLORdarkgoldenrod]Kids & Family New Releases[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>http://blackboxupdates.com/Wizard/backgrounds/kids.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Sonic the Hedgehog (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/02fwarjqi4nj/sonic_the_hedgehog_2020_new_official_trailer_paramount_pictures::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
