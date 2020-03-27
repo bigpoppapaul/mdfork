@@ -21,7 +21,7 @@
 <title>[COLORblue]Scroll Right >>>[/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/popular.txt</externallink>
 <thumbnail>http://blackboxupdates.com/Wizard/backgrounds/popularnewreleases.png</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
