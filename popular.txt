@@ -25,6 +25,7 @@
 <thumbnail>http://blackboxupdates.com/Wizard/backgrounds/popularnewreleases.png</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
+
 <item>
 <title>[COLORwhite]Bad Boys for Life (2020)[/COLOR]</title>
 <link>
