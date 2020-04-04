@@ -12,7 +12,7 @@
 <title>[COLORblue]Scroll Right >>>[/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/newreleases.txt</externallink>
+<externallink>https://raw.githubusercontent.com/bigpoppapaul/mdfork/master/newreleases.txt</externallink>
 <thumbnail>http://blackboxupdates.com/Wizard/backgrounds/brandnewreleases.png</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
