@@ -38,7 +38,7 @@ sublink:LISTSOURCE:https://uptobox.com/wug1jtimkije::LISTNAME:[COLORgold]HD  LIN
 <item>
 <title>[COLORwhite]Corona Zombies (2020)[/COLOR]</title>
 <link>
-sublink::LISTNAME:[COLORred]Sorry guys, I COULD NOT RESIST adding this[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/4a7lasiclih3/corona_zombies_exclusive_full_trailer_2020_::LISTNAME:[COLORwhite]Sorry guys, I COULD NOT RESIST adding this[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/4a7lasiclih3/corona_zombies_exclusive_full_trailer_2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/gsf8xesd4kph/corona_zombies_2020_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/ymxxoc2lppq3::LISTNAME:[COLORgold]HD  LINK 2 (VIDLOX)[/COLOR]::#
