@@ -15,7 +15,7 @@
 </item>
 
 <item>
-<title>[I][COLORwhite]Talladega Nights: The Ballad of Ricky Bobby (2006) Unrated[/COLOR][/I]</title>
+<title>[COLORwhite]Talladega Nights: The Ballad of Ricky Bobby (2006) Unrated[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/49pv08v897u5/talladega_nights_the_ballad_of_ricky_bobby_2006_trailer_1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/lcvlodgmqk9b/talladega_nights_the_ballad_of_ricky_bobby_2006_unrated_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -31,7 +31,7 @@ sublink:LISTSOURCE:https://uptobox.com/f7rxhl371u7r::LISTNAME:[COLORgold] HD  LI
 </item>
 
 <item>
-<title>[I][COLORwhite]Central Intelligence (2016) Unrated[/COLOR][/I]</title>
+<title>[COLORwhite]Central Intelligence (2016) Unrated[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/q38x8hmd5qop/central_intelligence_official_trailer_1_2016_kevin_hart%2C_dwayne_johnson_comedy_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/2txyqn0zxu9m/central_intelligence_2016_unrated_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -47,7 +47,7 @@ sublink:LISTSOURCE:https://uptobox.com/awqaifgis7ma::LISTNAME:[COLORgold] HD  LI
 </item>
 
 <item>
-<title>[I][COLORwhite]Baywatch (2017) Unrated[/COLOR][/I]</title>
+<title>[COLORwhite]Baywatch (2017) Unrated[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/iq42nt5d8fe1/baywatch_2017_official_trailer_paramount_pictures::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/25smhblsw0el/baywatch_2017_unrated_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -63,7 +63,7 @@ sublink:LISTSOURCE:https://uptobox.com/djo36tt4znte::LISTNAME:[COLORgold] HD  LI
 </item>
 
 <item>
-<title>[I][COLORwhite]This Means War (2012) Unrated[/COLOR][/I]</title>
+<title>[COLORwhite]This Means War (2012) Unrated[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/1g2kih9kxoi7/this_means_war_2012_trailer_hdie_chris_pine%2C_tom_hardyie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/b1euk8betjcj/this_means_war_2012_unrated_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -79,7 +79,7 @@ sublink:LISTSOURCE:https://uptobox.com/7k2k4kiuvblw::LISTNAME:[COLORgold] HD  LI
 </item>
 
 <item>
-<title>[I][COLORwhite]Knight and Day (2010) Extended[/COLOR][/I]</title>
+<title>[COLORwhite]Knight and Day (2010) Extended[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/zfsa863py705/knight_and_day__official_trailer_hd__20th_century_fox::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/vkeq94y4nihk/knight_and_day_2010_extended_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -95,7 +95,7 @@ sublink:LISTSOURCE:https://uptobox.com/1wx0btugbazt::LISTNAME:[COLORgold] HD  LI
 </item>
 
 <item>
-<title>[I][COLORwhite]The Deer Hunter (1978) Remastered[/COLOR][/I]</title>
+<title>[COLORwhite]The Deer Hunter (1978) Remastered[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/qw64ls751bd3/the_deer_hunter_trailer_1978_hq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/kuk628mvcvcu/the_deer_hunter_1978_remastered_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -111,7 +111,7 @@ sublink:LISTSOURCE:https://uptobox.com/aind3y8t4osx::LISTNAME:[COLORgold] HD  LI
 </item>
 
 <item>
-<title>[I][COLORwhite]Inferno (2016)[/COLOR][/I]</title>
+<title>[COLORwhite]Inferno (2016)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/sldd5pki7d26/inferno_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/x3z67mct84jy/inferno_2016_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -127,7 +127,7 @@ sublink:LISTSOURCE:https://uptobox.com/pb4i0o7gkmes::LISTNAME:[COLORgold] HD  LI
 </item>
 
 <item>
-<title>[I][COLORwhite]Angels & Demons (2009) Extended[/COLOR][/I]</title>
+<title>[COLORwhite]Angels & Demons (2009) Extended[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/n6gk636g7jnw/angels_%26_demons_2009_trailer_2_ieclips_classic_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/ddjzk5jicykm/angels_and_demons_2009_extended_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -143,7 +143,7 @@ sublink:LISTSOURCE:https://uptobox.com/8p5if0n7qdni::LISTNAME:[COLORgold] HD  LI
 </item>
 
 <item>
-<title>[I][COLORwhite]The Da Vinci Code (2006) Extended[/COLOR][/I]</title>
+<title>[COLORwhite]The Da Vinci Code (2006) Extended[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/dtzoe1ehd218/the_da_vinci_code_2006_official_trailer_1_tom_hanksie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/mh0scdy8blsx/the_da_vinci_code_2006_extended_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -159,7 +159,7 @@ sublink:LISTSOURCE:https://uptobox.com/cl8d2ygbd3wd::LISTNAME:[COLORgold] HD  LI
 </item>
 
 <item>
-<title>[I][COLORwhite]Rango (2011) Extended[/COLOR][/I]</title>
+<title>[COLORwhite]Rango (2011) Extended[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/mxkifrkcwubb/rango_2011_trailer_1_ieclips_classic_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/u87bcqsyr6al/rango_2011_extended_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -175,7 +175,7 @@ sublink:LISTSOURCE:https://uptobox.com/5fss0cd1b6dc::LISTNAME:[COLORgold] HD  LI
 </item>
 
 <item>
-<title>[I][COLORwhite]Rollerball (1975) Remastered[/COLOR][/I]</title>
+<title>[COLORwhite]Rollerball (1975) Remastered[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/aho4ggykvaqj/rollerball_official_trailer_1_james_caanie_1975_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/vgrt42gv7ik4/rollerball_1975_remastered_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
