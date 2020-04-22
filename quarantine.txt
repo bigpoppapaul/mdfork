@@ -63,7 +63,7 @@ sublink:LISTSOURCE:https://uptobox.com/9oz5zb5k3ieq::LISTNAME:[COLORgold] HD  LI
 </item>
 
 <item>
-<title>[COLORwhite]Terminator 3: Rise of the Machines (2003) DC Remastered[/COLOR]</title>
+<title>[COLORwhite]Terminator 3: Rise of the Machines (2003) Director's Cut - Remastered[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/gfjx91jertiw/terminator_3_rise_of_the_machines_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/gfjx91jertiw/terminator_3_rise_of_the_machines_trailer::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -79,7 +79,7 @@ sublink:LISTSOURCE:https://uptobox.com/j72tl3t7u127::LISTNAME:[COLORgold] HD  LI
 </item>
 
 <item>
-<title>[COLORwhite]Terminator 2: Judgment Day (1991) DC Remastered[/COLOR]</title>
+<title>[COLORwhite]Terminator 2: Judgment Day (1991) Director's Cut - Remastered[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ecl526u0tnv4/terminator_2_judgment_day_1991_trailer_1_ieclips_classic_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/32fauamf3kb4/terminator_2_judgement_day_1991_dc_remastered_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -95,7 +95,7 @@ sublink:LISTSOURCE:https://uptobox.com/obxyy9fb35dm::LISTNAME:[COLORgold] HD  LI
 </item>
 
 <item>
-<title>[COLORwhite]The Terminator (1984) DC Remastered[/COLOR]</title>
+<title>[COLORwhite]The Terminator (1984) Director's Cut - Remastered[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/s2pw78egy02y/the_terminator_1984_official_trailer_arnold_schwarzeneggeie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/mw0yfm7d1un1/the_terminator_1984_remastered_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
