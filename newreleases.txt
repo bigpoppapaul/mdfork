@@ -18,7 +18,7 @@
 </item>
 
 <item>
-<title>[COLORwhite]Boyz n the Hood (1991) Remastered[/COLOR]</title>
+<title>[COLORwhite][COLORred]Classic of the Week[/COLOR] - Boyz n the Hood (1991) Remastered[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/4l47scexz43i/boyz_n_the_hood_trailer::LISTNAME:[COLORwhite]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/6x43az0myd3k/boyz_n_the_hood_1991_remastered_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
