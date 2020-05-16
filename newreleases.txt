@@ -18,22 +18,171 @@
 </item>
 
 <item>
-<title>[COLORwhite][COLORred]Classic of the Week[/COLOR] - Unforgiven (1992) REMASTERED[/COLOR]</title>
+<title>[COLORwhite]Boyz n the Hood (1991) Remastered[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://vidoza.net/2kwc15eswko0/unforgiven_1992_official_trailer_clint_eastwood%2C_morgan_freemanie_h::LISTNAME:[COLORwhite]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/2tktc9pd5li6/unforgiven_1992_remastered_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/0162lv8durwl::LISTNAME:[COLORgold]HD  LINK 2 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://vup.to/iae22gsnh2ev.html::LISTNAME:[COLORgold]HD  LINK 3 (VUP)[/COLOR]::#
-sublink:LISTSOURCE:https://videobin.co/n5079yxtdl5c::LISTNAME:[COLORgold]HD  LINK 4 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.co/f/o7436e30a49m80::LISTNAME:[COLORgold]HD  LINK 5 (MIXDROP OR VIDEOBIN)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/7baefb72463303e5b1baa40996d17d1f/Unforgiven.1992.REMASTERED.1080p.BluRay.x265-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 1 (RAPIDGATOR)[COLORred] Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?knvek25ktvxxllt8sym9::LISTNAME:[COLORgold]HD  LINK 2 (1FICHIER)[COLORred] Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/hklxgcdhwr7k.html::LISTNAME:[COLORgold]HD  LINK 3 (TURBOBIT)[COLORred] Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://gounlimited.to/p65fv4if2msx/Unforgiven.1992.REMASTERED.1080p.BluRay.x265-RARBG.mp4::LISTNAME:[COLORgold]HD  LINK 4 (GOUNLIMITED) [COLORred] Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:https://clicknupload.co/djtiw2b3tywm::LISTNAME:[COLORgold]HD  LINK 5 (CLICKNUPLOAD) [COLORred] Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/jui73czvhv8x::LISTNAME:[COLORgold]HD  LINK 6 (UPLOAD) [COLORred] Debrid OR PIN[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/4l47scexz43i/boyz_n_the_hood_trailer::LISTNAME:[COLORwhite]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/6x43az0myd3k/boyz_n_the_hood_1991_remastered_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/rs0hsmscszy8::LISTNAME:[COLORgold]HD  LINK 2 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/9464af44582d079714888f5503823d39/Boyz.n.the.Hood.1991.REMASTERED.1080p.BluRay.x265-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 1 (RAPIDGATOR)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?wjpr4vdu5tw7yml4ef7u::LISTNAME:[COLORgold] HD  LINK 2 (1FICHIER)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/ryk2vgrmsb1q.html::LISTNAME:[COLORgold] HD  LINK 3 (TURBOBIT)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/agd4v61bgy3n::LISTNAME:[COLORgold] HD  LINK 4 (UPLOAD) [COLORred] Debrid OR PIN[/COLOR]::#
 </link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,665,1000_AL_.jpg</thumbnail>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNGNjN2IyNWUtYzA3OS00ZjM2LTk3NWEtOWJlNDgyOWQ4MDE3XkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SY1000_CR0,0,701,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Scoob (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/0sd114kiztaa/scoob%21_official_trailer_2020_scooby_dooie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ixn87891d809/scoob_2020_1080p_web-dl_h264_ac3-evo::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/iv6q4f6y7gvr::LISTNAME:[COLORgold]HD  LINK 2 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/61voqrrupgjf.html::LISTNAME:[COLORgold]HD  LINK 3 (VUP)[/COLOR]::#
+sublink:LISTSOURCE:https://videobin.co/i9kup1iwcnfj::LISTNAME:[COLORgold]HD  LINK 4 (VIDEOBIN)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/o7416o8jhpm4ej::LISTNAME:[COLORgold]HD  LINK 5 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/a429458699289aaab58bb58728c5a9d6/Scoob.2020.1080p.WEB-DL.H264.AC3-EVO.mkv.html::LISTNAME:[COLORgold]HD  LINK 1 (RAPIDGATOR)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?l0h2lhnwvhtowjo0p28t::LISTNAME:[COLORgold]HD  LINK 2 (1FICHIER)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/rs1fn2bhhzah.html::LISTNAME:[COLORgold]HD  LINK 3 (TURBOBIT)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/rs9hf4jq7pin/Scoob.2020.1080p.WEB-DL.H264.AC3-EVO.mkv::LISTNAME:[COLORgold]HD  LINK 4 (GOUNLIMITED) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/rs9hf4jq7pin/Scoob.2020.1080p.WEB-DL.H264.AC3-EVO.mkv::LISTNAME:[COLORgold]HD  LINK 5 (CLICKNUPLOAD) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/z2ipibxle5cc::LISTNAME:[COLORgold]HD  LINK 6 (UPLOAD) [COLORred] Debrid OR PIN[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:FB9FE566659F0DBC63D130244024DEA178FD0098&dn=Scoob.2020.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORwhite]TORRENT HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:FB9FE566659F0DBC63D130244024DEA178FD0098&dn=Scoob.2020.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORwhite]TORRENT HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTM5YWZiMzQtNDQxZS00ODI0LWJjNTQtZmQ3OWU3Njg4NWYyXkEyXkFqcGdeQXVyNzc4NTU3Njg@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Wrong Missy (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/w15zsya1k9oa/the_wrong_missy__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/si23w4in9f1e/the_wrong_missy_2020_720p_nf_werip_x264_aac-etrg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/fsr18yh4hi25::LISTNAME:[COLORgold]HD  LINK 2 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/bh7djzylvb0a.html::LISTNAME:[COLORgold]HD  LINK 3 (VUP)[/COLOR]::#
+sublink:LISTSOURCE:https://videobin.co/mrvmytyi9xcc::LISTNAME:[COLORgold]HD  LINK 4 (VIDEOBIN)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/qlvzq6mwsxgozzg::LISTNAME:[COLORgold]HD  LINK 5 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/6d9c56cef991cf9dd99208fc03269873/The.Wrong.Missy.2020.720p.NF.WERip.x264.AAC-ETRG.mp4.html::LISTNAME:[COLORgold]HD  LINK 1 (RAPIDGATOR)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?pzlhkq6bgmy1idxs4bvn::LISTNAME:[COLORgold]HD  LINK 2 (1FICHIER)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/56rir0iynpzy.html::LISTNAME:[COLORgold]HD  LINK 3 (TURBOBIT)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/0o3z1p4nnn6p/The.Wrong.Missy.2020.720p.NF.WERip.x264.AAC-ETRG.mp4::LISTNAME:[COLORgold]HD  LINK 4 (GOUNLIMITED) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://clicknupload.co/481ku5ztk9ku::LISTNAME:[COLORgold]HD  LINK 5 (CLICKNUPLOAD) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/lfcduptc7nmy::LISTNAME:[COLORgold]HD  LINK 6 (UPLOAD) [COLORred] Debrid OR PIN[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:F4F0C00AE1F16461D632A0922114063C860D2D88&dn=The.Wrong.Missy.2020.1080p.NF.WEB-DL.DDP5.1.x264-CMRG%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORwhite]TORRENT HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:963EEF2D2C95FEB314191DCEE6AB1E2147F6CCEB&dn=The.Wrong.Missy.2020.720p.NF.WERip.x264.AAC-ETRG&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORwhite]TORRENT HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BY2QwZWJlZjMtNzU5NC00NTA0LWI1MjQtYWQ1ZTg4NWZmNjdkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Proximity (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/p5wrhbwr33mu/proximity_official_trailer_2020_sci-fi%2C_actionie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/afevv327x80o/proximity_2020_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/2ayhqfd5aaon::LISTNAME:[COLORgold]HD  LINK 2 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/xbx7csmb4hnl.html::LISTNAME:[COLORgold]HD  LINK 3 (VUP)[/COLOR]::#
+sublink:LISTSOURCE:https://videobin.co/iuur11sxfkn2::LISTNAME:[COLORgold]HD  LINK 4 (VIDEOBIN)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/7r9m0vmmhdw3jw::LISTNAME:[COLORgold]HD  LINK 5 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/c8828d53a38133dcb801f435bb49b462/Proximity.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 1 (RAPIDGATOR)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?1u2wow1qmwftk0fjonm8::LISTNAME:[COLORgold]HD  LINK 2 (1FICHIER)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/e7ri2mwtuwne.html::LISTNAME:[COLORgold]HD  LINK 3 (TURBOBIT)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/jodxxlpl4oc5/Proximity.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv::LISTNAME:[COLORgold]HD  LINK 4 (GOUNLIMITED) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://clicknupload.co/amfcws075shm::LISTNAME:[COLORgold]HD  LINK 5 (CLICKNUPLOAD) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/5kuhzmsc2vlv::LISTNAME:[COLORgold]HD  LINK 6 (UPLOAD) [COLORred] Debrid OR PIN[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:662F9A666DF3AA30C8CEC5448192FAB57CC1592F&dn=Proximity.2020.720p.WEBRip.800MB.x264-GalaxyRG+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORwhite]TORRENT HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:B7786638A57CC91EC6C35BC9331B97C9B5FB8E64&dn=Proximity.2020.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORwhite]TORRENT HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzFjYTFkZjItZDI1Zi00MzExLTg1ODctMWQ0ZTc2YTRhZmM4XkEyXkFqcGdeQXVyMjU1NjU1NDU@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Easy Land (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/bsjxk5xtn8h7/easy_land_official_2019_ciff_selection_trailer_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/sndx73tr0hlo/easy_land_2019_1080p_web-dl_h264_ac3-evo::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/69xkx2sqmboy::LISTNAME:[COLORgold]HD  LINK 2 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/jkfnk5fwiqa0.html::LISTNAME:[COLORgold]HD  LINK 3 (VUP)[/COLOR]::#
+sublink:LISTSOURCE:https://videobin.co/ggps5ba27453::LISTNAME:[COLORgold]HD  LINK 4 (VIDEOBIN)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/841xp067fxdmow::LISTNAME:[COLORgold]HD  LINK 5 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/bee92311b0d6fbfb02ee37725cab3262/Easy.Land.2019.1080p.WEB-DL.H264.AC3-EVO.mkv.html::LISTNAME:[COLORgold]HD  LINK 1 (RAPIDGATOR)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ibrasm4ccifvj3isiasl::LISTNAME:[COLORgold]HD  LINK 2 (1FICHIER)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/t2caw6koxqge.html::LISTNAME:[COLORgold]HD  LINK 3 (TURBOBIT)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/l5gsq42j37ww/Easy.Land.2019.1080p.WEB-DL.H264.AC3-EVO.mkv::LISTNAME:[COLORgold]HD  LINK 4 (GOUNLIMITED) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/l5gsq42j37ww/Easy.Land.2019.1080p.WEB-DL.H264.AC3-EVO.mkv::LISTNAME:[COLORgold]HD  LINK 5 (CLICKNUPLOAD) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/lgz8y03x2uf7::LISTNAME:[COLORgold]HD  LINK 6 (UPLOAD) [COLORred] Debrid OR PIN[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:44EE37064587828F819B37EDCC5163F343470307&dn=Easy.Land.2019.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORwhite]TORRENT HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:44EE37064587828F819B37EDCC5163F343470307&dn=Easy.Land.2019.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORwhite]TORRENT HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTQ0ZjY2ZWUtOWFlZC00YzMzLTk5MDctYzA3NzI5ZjVmYTE3XkEyXkFqcGdeQXVyODA4NTU5Nzc@._V1_SY1000_CR0,0,692,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Red Snow (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/i0x7mesr2ran/red_snow_trailer_viff_2019::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/tbj8q9dc0tsf/red_snow_2020_1080p_web-dl_h264_ac3-evo::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/vc3xc5842yrn::LISTNAME:[COLORgold]HD  LINK 2 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/trxcy947mpvz.html::LISTNAME:[COLORgold]HD  LINK 3 (VUP)[/COLOR]::#
+sublink:LISTSOURCE:https://videobin.co/th17q5lzg44e::LISTNAME:[COLORgold]HD  LINK 4 (VIDEOBIN)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/md1wm49nh09elm::LISTNAME:[COLORgold]HD  LINK 5 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/311ee5083b667f2442f357bcbfc87459/Red.Snow.2020.1080p.WEB-DL.H264.AC3-EVO.mkv.html::LISTNAME:[COLORgold]HD  LINK 1 (RAPIDGATOR)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?rqzamdxoq8eph3lzgrcu::LISTNAME:[COLORgold]HD  LINK 2 (1FICHIER)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/4x0qyimdtk85.html::LISTNAME:[COLORgold]HD  LINK 3 (TURBOBIT)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/s9c1ccvx8bx4/Red.Snow.2020.1080p.WEB-DL.H264.AC3-EVO.mkv::LISTNAME:[COLORgold]HD  LINK 4 (GOUNLIMITED) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/s9c1ccvx8bx4/Red.Snow.2020.1080p.WEB-DL.H264.AC3-EVO.mkv::LISTNAME:[COLORgold]HD  LINK 5 (CLICKNUPLOAD) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/p6g07zqia3h2::LISTNAME:[COLORgold]HD  LINK 6 (UPLOAD) [COLORred] Debrid OR PIN[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:5173B0C3ADA24A53E66D514EFFB1550F6C37C5AE&dn=Red.Snow.2020.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORwhite]TORRENT HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:5173B0C3ADA24A53E66D514EFFB1550F6C37C5AE&dn=Red.Snow.2020.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORwhite]TORRENT HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTIzN2M0NjAtNzc4MS00NGJkLThlZTUtMjc4NDRhMDg0NTZiXkEyXkFqcGdeQXVyNTAxMDc1OA@@._V1_SY1000_CR0,0,668,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Blood and Money (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/5mxj95iwywum/blood_and_money_official_trailer_2020_tom_berenger%2C_actionie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/kcbf5019k8fj/blood_and_money_2020_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/hy1gkij499bz::LISTNAME:[COLORgold]HD  LINK 2 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/wx4pyydsbg09.html::LISTNAME:[COLORgold]HD  LINK 3 (VUP)[/COLOR]::#
+sublink:LISTSOURCE:https://videobin.co/v5b79dii6pld::LISTNAME:[COLORgold]HD  LINK 4 (VIDEOBIN)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/pk4xrzgwtd7e61::LISTNAME:[COLORgold]HD  LINK 5 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/cb6f030544707eae3759dc9b164dcdb4/Blood.And.Money.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 1 (RAPIDGATOR)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?xq5y2914vk8y1tg11mfi::LISTNAME:[COLORgold]HD  LINK 2 (1FICHIER)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/g2o2t98ze8rh.html::LISTNAME:[COLORgold]HD  LINK 3 (TURBOBIT)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/ibjr2t1wjx71/Blood.And.Money.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv::LISTNAME:[COLORgold]HD  LINK 4 (GOUNLIMITED) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://clicknupload.co/426wwq6r6nw0::LISTNAME:[COLORgold]HD  LINK 5 (CLICKNUPLOAD) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/dcystwyh4ams::LISTNAME:[COLORgold]HD  LINK 6 (UPLOAD) [COLORred] Debrid OR PIN[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:D0147743150F810482E2DF9FE58838D3C5F40CB6&dn=Blood.And.Money.2020.720p.WEBRip.800MB.x264-GalaxyRG+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORwhite]TORRENT HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:D0147743150F810482E2DF9FE58838D3C5F40CB6&dn=Blood.And.Money.2020.720p.WEBRip.800MB.x264-GalaxyRG+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORwhite]TORRENT HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDc0NmM3ZDUtOWZhOS00MmJmLThiZTAtODcwZTI0NjJhM2IxXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Castle in the Ground (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/1xzi5fy2deyj/castle_in_the_ground_official_trailer_2020_imogen_poots%2C_alex_wolff%2C_dramaie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ue81fdktbc4q/castle_in_the_ground_2020_1080p_web-dl_h264_ac3-evo::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/552y8rq8xjvl::LISTNAME:[COLORgold]HD  LINK 2 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/fjc3xf2gtuju.html::LISTNAME:[COLORgold]HD  LINK 3 (VUP)[/COLOR]::#
+sublink:LISTSOURCE:https://videobin.co/38jwz6rlnovw::LISTNAME:[COLORgold]HD  LINK 4 (VIDEOBIN)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/rwpmevqncgjmnk::LISTNAME:[COLORgold]HD  LINK 5 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/7953ba675a04bfb70ace861beb3c4494/Castle.In.The.Ground.2020.1080p.WEB-DL.H264.AC3-EVO.mkv.html::LISTNAME:[COLORgold]HD  LINK 1 (RAPIDGATOR)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?b18j8pn038e6532unjua::LISTNAME:[COLORgold]HD  LINK 2 (1FICHIER)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/e8wmr1gz30jf.html::LISTNAME:[COLORgold]HD  LINK 3 (TURBOBIT)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/wyovkmqevfgp/Castle.In.The.Ground.2020.1080p.WEB-DL.H264.AC3-EVO.mkv::LISTNAME:[COLORgold]HD  LINK 4 (GOUNLIMITED) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/wyovkmqevfgp/Castle.In.The.Ground.2020.1080p.WEB-DL.H264.AC3-EVO.mkv::LISTNAME:[COLORgold]HD  LINK 5 (CLICKNUPLOAD) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/p12lwnppl1ja::LISTNAME:[COLORgold]HD  LINK 6 (UPLOAD) [COLORred] Debrid OR PIN[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:D2F25ACEC3D41D967F70F34BEBF4A5BDD667CF84&dn=Castle.In.The.Ground.2020.720p.WEBRip.800MB.x264-GalaxyRG+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORwhite]TORRENT HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:2293E1BB167CD0384E73339E3DF3C72847AF6204&dn=Castle.In.The.Ground.2020.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORwhite]TORRENT HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZGNmZjMzYWQtMDIxYy00NDdlLThkYmUtNzQzZDhiZjNhOWM3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
@@ -1842,196 +1991,5 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:A887BBD48D348AD645BA4ECD979F09235B4F119C&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:BCE32C11747197E22F3AC94ADBD67F0AD0388FBF&dn=The.Roads.Not.Taken.2020.1080p.HDRip.X264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 12[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BN2UyM2U3NTctNTRlOS00Yzg5LTgxZTItNmM0MWE4ODEwMjg1XkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Axcellerator (2020)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/ruqnhl46ambs/axcellerator_trailer_2019_sam_jones_action_sci-fiie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/2dfqob8scozk/axcellerator_2020_720p_amzn_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/2dfqob8scozk/axcellerator_2020_720p_amzn_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/v55zblwrl4ns::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/jg-rwadk86q7gpl::LISTNAME:[COLORgold]HD  LINK 3 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://videobin.co/vbw0jy0jb8t2::LISTNAME:[COLORgold]HD  LINK 5 (VIDEOBIN)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/gh621b5notap::LISTNAME:[COLORgold]HD  LINK 6 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/fd94aab78aa061b2bb9e4596566ec05b/Axcellerator.2020.720p.AMZN.WEBRip.800MB.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?azyqpatja7tpf28h44lk::LISTNAME:[COLORgold]HD  LINK 8 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/uvpqyxavzvkv.html::LISTNAME:[COLORgold]HD  LINK 9 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/bhia24bkgxy1::LISTNAME:[COLORgold]HD  LINK 10 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:39B07B8ADED3245FF2096651389B83905A46C57F&dn=Axcellerator.2020.720p.AMZN.WEBRip.800MB.x264-GalaxyRG+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 11[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:6A8E7576EBEB982038683B1722671C9E1A47EB76&dn=Axcellerator.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 12[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMWY3YThiZjctOGY4ZS00NzA1LTliZTUtNWEyMTVlODNhZmQ2XkEyXkFqcGdeQXVyMTgzOTE5MTY@._V1_SY1000_CR0,0,782,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Black Garden (2020)[/COLOR]</title>
-<link>
-ublink:LISTSOURCE:https://vidoza.net/tdnkvkgpajh9/the_main_event_official_trailer_2020_wrestling%2C_netflixie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/oyirchn599t8/black_garden_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/oyirchn599t8/black_garden_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/7zc4mtig3uvv::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/3360qumjnm15lex::LISTNAME:[COLORgold]HD  LINK 3 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://videobin.co/3lmgojlvzo01::LISTNAME:[COLORgold]HD  LINK 5 (VIDEOBIN)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/q6mikhk2047o::LISTNAME:[COLORgold]HD  LINK 6 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/9510d1167f448c0080bd303a90fcbb9a/Black.Garden.2019.1080p.WEBRip.x264-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 7 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?bc1gtvfpo492gardqu1a::LISTNAME:[COLORgold]HD  LINK 8 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?bc1gtvfpo492gardqu1a::LISTNAME:[COLORgold]HD  LINK 9 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/qu4d3z9v00am::LISTNAME:[COLORgold]HD  LINK 10 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:926920fce84df940a69ac6c4c04a25a6061eeb56&dn=Black.Garden.2019.1080p.WEBRip.x264-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2970&tr=udp%3A%2F%2F9.rarbg.to%3A2750::LISTNAME:[COLORgreen]HD  LINK 11[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:926920fce84df940a69ac6c4c04a25a6061eeb56&dn=Black.Garden.2019.1080p.WEBRip.x264-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2970&tr=udp%3A%2F%2F9.rarbg.to%3A2750::LISTNAME:[COLORgreen]HD  LINK 12[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNjNhNTFmNjQtZGViZC00OWNjLWJkODgtN2Q1ZmM2NjgyYWUwXkEyXkFqcGdeQXVyMzM4MTY3NDg@._V1_SX700_CR0,0,700,999_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]The Main Event (2020)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/tdnkvkgpajh9/the_main_event_official_trailer_2020_wrestling%2C_netflixie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/s0hv44h7d0sx/the_main_event_2020_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/s0hv44h7d0sx/the_main_event_2020_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/odrm62k4eps3::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/xg4r0a5r65kmzlr::LISTNAME:[COLORgold]HD  LINK 3 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://videobin.co/j5zp86uibe0r::LISTNAME:[COLORgold]HD  LINK 5 (VIDEOBIN)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/fw62mvvda81q::LISTNAME:[COLORgold]HD  LINK 6 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/d18b1988c972fe21a8fd05ace3d2fc7f/The.Main.Event.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?legqavb315ds0kdw0gg7::LISTNAME:[COLORgold]HD  LINK 8 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/se82b5f4jtoh.html::LISTNAME:[COLORgold]HD  LINK 9 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/gjfdcrb56fns::LISTNAME:[COLORgold]HD  LINK 10 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:953E9267B837402337F856946438199B549AFA1A&dn=The.Main.Event.2020.720p.WEBRip.800MB.x264-GalaxyRG+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 11[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:C6DBAFBE8826677E5673852E9DB2158F20CABFDA&dn=The.Main.Event.2020.1080p.iNTERNAL.WEB.x264-SECRECY%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 12[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BODgyZDExZTEtZDk5Mi00ZjI5LWI2MTUtNzM0ZjliNTM4MzVhXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Tigertail (2020)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/wbapur63jryo/tigertail_a_film_by_alan_yang__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/s6f4p7wh1oon/tigertail_2020_720p_nf_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/s6f4p7wh1oon/tigertail_2020_720p_nf_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/cx6fbcag0xpb::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/-qz17ip5np2kw7z::LISTNAME:[COLORgold]HD  LINK 3 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://videobin.co/kdvf5vtyf8fm::LISTNAME:[COLORgold]HD  LINK 5 (VIDEOBIN)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/0051iciuleu8::LISTNAME:[COLORgold]HD  LINK 6 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/3e70c16096464117403dc7b595784ed9/Tigertail.2020.720p.NF.WEBRip.800MB.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?chghp6lyli7w152iyhq7::LISTNAME:[COLORgold]HD  LINK 8 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/nphbki37s0gj.html::LISTNAME:[COLORgold]HD  LINK 9 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/9m1qf21z1b3d::LISTNAME:[COLORgold]HD  LINK 10 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:28DE9EE6EC3DE29DC4982144A43745CB3DA28EE7&dn=Tigertail.2020.720p.NF.WEBRip.800MB.x264-GalaxyRG+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 11[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:CB2C43E093D1CE6A8D8720A6AA472E44F4F5296E&dn=Tigertail.2020.1080p.NF.WEB-DL.DDP5.1.x264-CMRG%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 12[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BY2Q4MjZjNzItMjJkMS00Y2M5LTg3NjUtMTk2OWNhMjJlNmE0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Go Back to China (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/eykns81igg5p/go_back_to_china__official_hd_trailer_2020__drama__film_threat_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/5tsas4nbugoc/go_back_to_china_2019_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/5tsas4nbugoc/go_back_to_china_2019_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/sahvl508gaym::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/0e5r1tl0rl62pwd::LISTNAME:[COLORgold]HD  LINK 3 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://videobin.co/ow7bqmq23n1s::LISTNAME:[COLORgold]HD  LINK 5 (VIDEOBIN)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/aupwprd6f2x4::LISTNAME:[COLORgold]HD  LINK 6 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/ee301403d6ee73da11c2f41bf61f8eb6/Go.Back.To.China.2019.720p.WEBRip.800MB.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?keo6kf9t2nkt6lchbdoz::LISTNAME:[COLORgold]HD  LINK 8 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/fwgtbfcjiurn.html::LISTNAME:[COLORgold]HD  LINK 9 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/24tfy9zs7blg::LISTNAME:[COLORgold]HD  LINK 10 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:B44FDBD19109B2B26F1D901FF668A5C5332DD0C0&dn=Go+Back+to+China+%282019%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D+%5BYTS%5D+%5BYIFY%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 11[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:0AC5AEDE1B801E415552F52B2BA14C8851013419&dn=Go.Back.To.China.2019.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 12[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYmFiMDBmOWYtZTQ0Zi00MGY0LTlkZmMtZjU5M2ExYmM0NjI4XkEyXkFqcGdeQXVyMzgyODA1MA@@._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Love. Wedding. Repeat (2020)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/p26nbp5pmjsl/love_wedding_repeat__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/b3gmk166uk3y/love_wedding_repeat_2020_1080p_nf_web-dl_ddp5_1_atmos_x264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/b3gmk166uk3y/love_wedding_repeat_2020_1080p_nf_web-dl_ddp5_1_atmos_x264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/ft4zh0ed41f8::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/wg32dan-k-3j4n3::LISTNAME:[COLORgold]HD  LINK 3 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://videobin.co/ac1gfyhxb1e1::LISTNAME:[COLORgold]HD  LINK 5 (VIDEOBIN)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/uvszjhwtnpwi::LISTNAME:[COLORgold]HD  LINK 6 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/a8f0a044f02d2a4dc510dd17790479ae/Love.Wedding.Repeat.2020.1080p.NF.WEB-DL.DDP5.1.ATMOS.x264-CMRG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?dsagfsai1sgd13wzc30z::LISTNAME:[COLORgold]HD  LINK 8 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/hoj819ngcrvv.html::LISTNAME:[COLORgold]HD  LINK 9 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/opnhxqz0nj39::LISTNAME:[COLORgold]HD  LINK 10 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:4B2DDD933C192C8D1FCF93E1C148466E795ADFB3&dn=Love.Wedding.Repeat.2020.720p.NF.WEBRip.800MB.x264-GalaxyRG+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 11[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:2AC3731078914A109C4069454E1481BA992DD7A3&dn=Love.Wedding.Repeat.2020.1080p.NF.WEB-DL.DDP5.1.ATMOS.x264-CMRG%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 12[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNGJmNmVjZjMtZmY5OC00MjhiLTgxOGUtOTIzOTc2YTkyZmM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]In the Trap (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/yntw5sy59fzk/in_the_trap_trailer_2020_thrillerie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/wuxdd4mvvcnl/in_the_trap_2019_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/wuxdd4mvvcnl/in_the_trap_2019_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/0exlgb3vaafb::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/el2x0u-1p1xjm8g::LISTNAME:[COLORgold]HD  LINK 3 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://videobin.co/yzzbrn89y1ha::LISTNAME:[COLORgold]HD  LINK 5 (VIDEOBIN)[/COLOR]::#
-sublink:LISTSOURCE:hhttps://cloudvideo.tv/edfr94ibhp3b::LISTNAME:[COLORgold]HD  LINK 6 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/22739062709e964e60c9df7e0605db2f/In.The.Trap.2019.720p.WEBRip.800MB.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?9kkmrr2v4uoyvezq3ew6::LISTNAME:[COLORgold]HD  LINK 8 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/9ybiizk2qagd.html::LISTNAME:[COLORgold]HD  LINK 9 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/9n7x7x6cf1ub::LISTNAME:[COLORgold]HD  LINK 10 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:980D15E9C381C7BF0D15929C4BCD453498EA5B2A&dn=In.the.Trap.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 11[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:905C45975E1E1765D3E8A2F49D83B9C3CC0792EB&dn=In.The.Trap.2019.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 12[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNWJjYzQ3MjUtYTdhYy00YzdkLTkxZmItNTMwYTVhMmFmOTY4XkEyXkFqcGdeQXVyMzgzMDUxMjM@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLORwhite]Blush (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/b83y5std2n35/blush_official_trailer_1_new_2020_wendi_mclendon-coveyie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/7pvuous8b47i/blush_2019_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/7pvuous8b47i/blush_2019_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/mq339me47py7::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/el2x0u-1p1zgdkj::LISTNAME:[COLORgold]HD  LINK 3 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://videobin.co/kjx36k18e2jq::LISTNAME:[COLORgold]HD  LINK 5 (VIDEOBIN)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/lx96gtspkaf8::LISTNAME:[COLORgold]HD  LINK 6 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/a4ab032677ac3541a0843dad3c6cf5f9/Blush.2019.720p.WEBRip.800MB.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?1vmq6lnkb7cwk4zv913z::LISTNAME:[COLORgold]HD  LINK 8 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/gh846wyie0ny.html::LISTNAME:[COLORgold]HD  LINK 9 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/qq05u0eh4enp::LISTNAME:[COLORgold]HD  LINK 10 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:095501926A0E0D296FA231028678522979C312E6&dn=Blush.2019.1080p.WEB-DL.H264.AC3-EVO%5BMovCr%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 11[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:990840F90D64C5294B5065534990191D046454E3&dn=Blush.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 12[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNzBjMzRlOTUtMGMzZS00NjBhLTgyMTUtYTBkNzFkNDU2OTlkXkEyXkFqcGdeQXVyNTU5ODM2NzI@._V1_SY1000_CR0,0,676,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLORwhite]The Lost Husband (2020)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/ktt0n8xqh7e1/the_lost_husband_official_trailer_2020_josh_duhamelie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/3day4ocvvzkf/the_lost_husband_2020_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/3day4ocvvzkf/the_lost_husband_2020_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/nozksn13w3w4::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/2x451s2pzp23w8p::LISTNAME:[COLORgold]HD  LINK 3 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://videobin.co/wuownpeg1g3h::LISTNAME:[COLORgold]HD  LINK 5 (VIDEOBIN)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/eawereo38d1m::LISTNAME:[COLORgold]HD  LINK 6 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/327e2cdece0961227dd6396e5a960468/The.Lost.Husband.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?8hk4de4jufyte3egt223::LISTNAME:[COLORgold]HD  LINK 8 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/0b4onsq2v8oc.html::LISTNAME:[COLORgold]HD  LINK 9 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/18234teb3b6y::LISTNAME:[COLORgold]HD  LINK 10 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:0C60798E8AFDFA16B252448312DFEE47414DFBDC&dn=The+Lost+Husband+%282020%29+%5B720p%5D+%5BWEBRip%5D+%5BYTS%5D+%5BYIFY%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 11[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:3D6CD03CC5124BF9C64442E25E5956747323E5E2&dn=The.Lost.Husband.2020.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 12[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZWY1Y2RiM2ItZmYzOS00ZDU3LWEwMzAtNTFjYmRjZTJmYWRmXkEyXkFqcGdeQXVyMzE4NTc2MjU@._V1_SY1000_CR0,0,692,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
