@@ -18,17 +18,20 @@
 </item>
 
 <item>
-<title>[COLORwhite][COLORred]Classic of the Week[/COLOR] - Boyz n the Hood (1991) Remastered[/COLOR]</title>
+<title>[COLORwhite][COLORred]Classic of the Week[/COLOR] - Reservoir Dogs (1992)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://vidoza.net/4l47scexz43i/boyz_n_the_hood_trailer::LISTNAME:[COLORwhite]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/6x43az0myd3k/boyz_n_the_hood_1991_remastered_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/rs0hsmscszy8::LISTNAME:[COLORgold]HD  LINK 2 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/9464af44582d079714888f5503823d39/Boyz.n.the.Hood.1991.REMASTERED.1080p.BluRay.x265-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 1 (RAPIDGATOR)[COLORred] Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?wjpr4vdu5tw7yml4ef7u::LISTNAME:[COLORgold] HD  LINK 2 (1FICHIER)[COLORred] Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/ryk2vgrmsb1q.html::LISTNAME:[COLORgold] HD  LINK 3 (TURBOBIT)[COLORred] Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/agd4v61bgy3n::LISTNAME:[COLORgold] HD  LINK 4 (UPLOAD) [COLORred] Debrid OR PIN[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/26a86ti9s1hx/reservoir_dogs_1992_official_trailer_1_quentin_tarantinoie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ogngqx90k7no/reservoir_dogs_1992_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/en61wg0wirpmd::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/3360qumj-2jeey6::LISTNAME:[COLORgold]HD  LINK 3 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/kerj9osu1sqw::LISTNAME:[COLORgold]HD  LINK 4 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/ar4q792xletc::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/f4961e5d084a261c5dcd5b12b7bc7db8/Reservoir.Dogs.1992.1080p.BluRay.x265-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?p4qn8vwjvmzzt0vxz782::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/aql9vbyoy9n4.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/1adqaie31pm5::LISTNAME:[COLORgold]HD  LINK 9 (UPLOAD) [COLORred] Real Debrid OR PIN[/COLOR]::#
 </link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNGNjN2IyNWUtYzA3OS00ZjM2LTk3NWEtOWJlNDgyOWQ4MDE3XkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SY1000_CR0,0,701,1000_AL_.jpg</thumbnail>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
